@@ -39,7 +39,8 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![image](https://github.com/shehanshajahan/GCD-of-two-numbers/assets/139317389/df990c47-51b1-4b6e-87c3-2c94ccde28ce)
+
 
 
 ## Result:
